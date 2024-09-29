@@ -1,1 +1,2 @@
-Pattern Recognition and Computer Vision class instructed by Yao Yao(nju). 
+# 课程介绍
+该课程为南京大学智能科学与技术学院姚遥老师开设的《模式识别与计算机视觉》，课程主页见https://phantom-fan-2ec.notion.site/2024-110962d2bea280f6924be6692b79183d 
