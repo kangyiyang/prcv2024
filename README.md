@@ -1,1 +1,1 @@
-# prcv2024
+Pattern Recognition and Computer Vision class instructed by Yao Yao(nju). 
